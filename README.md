@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This repository is the code release of the work from our [electronic letter], published in ??? 2024. We propose a 3D instance segmentation method which simultaneously learns coefficients and prototypes.
+This repository is the code release of the work from our [electronic letter] (link not yet available), published in ??? 2024. We propose a 3D instance segmentation method which simultaneously learns coefficients and prototypes.
 
 3D instance segmentation is crucial for applications demanding comprehensive 3D scene understanding. In this paper, we introduce a novel method that simultaneously learns coefficients and prototypes. Employing an overcomplete sampling strategy, our method produces an overcomplete set of instance predictions, from which the optimal ones are selected through a Non-Maximum Suppression (NMS) algorithm during inference. The obtained prototypes are visualizable and interpretable. Our method demonstrates superior performance on S3DIS-blocks, consistently outperforming existing methods in mRec and mPrec. Moreover, it operates 32.9\% faster than the state-of-the-art. Notably, with only 0.8\% of the total inference time, our method exhibits an over 20-fold reduction in the variance of inference time compared to existing methods. These attributes render our method well-suited for practical applications requiring both rapid inference and high reliability.
 
