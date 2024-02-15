@@ -13,7 +13,7 @@ This repository is the code release of the work from our [electronic letter] (li
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-	Bibtex not available yet
+	Bibtex not yet available
 	
 ### License
 Our code is released under MIT License (see LICENSE file for details).
