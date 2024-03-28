@@ -1,4 +1,4 @@
-## Joint prototype and coefficient prediction for 3d instance segmentation (in press)
+## Joint prototype and coefficient prediction for 3d instance segmentation
 
 **The code will be released soon. Estimated time of arrival: 15 April 2024**
 
@@ -13,7 +13,17 @@ This repository is the code release of the work from our [electronic letter] (li
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-	Bibtex not yet available
+	@article{royen2024joint,
+	    title={Joint prototype and coefficient prediction for 3D instance segmentation},
+	    author={Royen, Remco and Denis, Leon and Munteanu, Adrian},
+	    journal={Electronics Letters},
+	    volume={60},
+	    number={5},
+	    pages={e13137},
+	    year={2024},
+	    publisher={Wiley Online Library}
+	}
+ 
 	
 ### License
 Our code is released under MIT License (see LICENSE file for details).
