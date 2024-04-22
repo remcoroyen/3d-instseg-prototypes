@@ -1,6 +1,6 @@
 ## Joint prototype and coefficient prediction for 3d instance segmentation
 
-**The code will be released soon. Estimated time of arrival: 15 April 2024**
+**The code will be released soon.**
 
 **Authors:** <a href="https://www.linkedin.com/in/remcoroyen/" target="_blank">Remco Royen</a>, <a href="http://www.etrovub.be/LeonDenis" target="_blank">Leon Denis</a>, and <a href="http://www.etrovub.be/AdrianMunteanu" target="_blank">Adrian Munteanu</a> - Vrije Universiteit Brussel (VUB). The first author has been funded by a FWO-SB scholarship.
 
